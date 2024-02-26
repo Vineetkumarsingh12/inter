@@ -27,7 +27,9 @@ function App() {
       <div className="bg-red-600 h-[3px] w-[90%] mx-auto"></div>
       <h2 className=' font-bold text-center pt-3'>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</h2>
       <p  className=' text-center'>CHEMICALS & PROCESS POWER WATER & WASTE WATER OILS & GAS PHARMA SUGARS & DISTILLERIES PAPER & PULP MARINE & DEFENCE METAL & MINING FOOD & BEVERAGE PETROCHEMICAL & REFINERIES SOLAR BUILDING HVAC FIRE FIGHTING AGRICULTURE & RESIDENTIAL</p>
+      <div className='p-2'>
       <Footer/>
+      </div>
     </div>
   );
 }

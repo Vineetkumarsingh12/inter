@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
-    <div className='flex justify-around items-center  bg-red-700 pt-3 pb-5 m-2 text-white
+    <div className='flex justify-around items-center  bg-red-700 pt-4 pb-5  text-white
      flex-wrap gap-2'>
       <div className=' flex'>
         <FaPhoneSquareAlt />
